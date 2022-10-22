@@ -4,9 +4,9 @@ plugins {
 	id 'java'
 }
 
-group = 'com.angie'
+group = 'com.angiemarket'
 version = '1.0'
-sourceCompatibility = '17'
+//sourceCompatibility = '17'
 
 repositories {
 	mavenCentral()
